@@ -1,1 +1,2 @@
-# lab22
+Name : Thanakon konkham
+Student Number : 680610756
